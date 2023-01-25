@@ -1,5 +1,7 @@
 ## Briefly introduce yourself
 
-## We're creating a website using laravel_frameworks
+Hello, my name is  Francis Lopez, I am the best web developer in the
+Milky Way!
 
-## What web application would you like to build
+## What web application would you like to build?
+ I want to create an online store front for our small family business.
